@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productlist>
+<product>
+	<id>A1</id>
+	<type>Planes</type>
+	<name>Airbus A380-800</name>
+	<description>Null</description>
+	<max_speed>587 mph</max_speed>
+	<length>72.75m</length>
+	<wingspan>79.80m</wingspan>
+	<weight>560,000kg</weight>
+	<thrust>127,800</thrust>
+	<range>14,800 miles</range>
+</product>
+<product>
+	<id>A3</id>
+	<type>Tractors</type>
+	<name>New Holland TG 285</name>
+	<description>Null</description>
+	<max_speed>25 mph</max_speed>
+	<engine_capacity>8,300cc<engine_capacity>
+	<length>6.01m</length>
+	<weight>11,200</weight>
+	<power>283 bhp</power>
+	<fuel_capacity>605 litres</fuel_capacity>
+</product>
+<product>
+	<id>A4</id>
+	<type>Superbikes</type>
+	<name>Kawasaki ZXR 750</name>
+	<description>Null</description>
+	<max_speed>193 mph</max_speed>
+	<engine_capacity>749<engine_capacity>
+	<0_60>2.8 seconds</0_60>
+	<cylinders>4</cylinders>
+	<power>160 bhp</power>
+	<revs_per_minute>14,200</revs_per_minute>
+</product>
+<product>
+	<id>N/A</id>
+	<type>TG Supercars</type>
+	<name>Jaguar XKR-S</name>
+	<description>The XKR-S is the most powerful road car Jaguar has ever produced etc.</description>
+	<0_60>4.2 seconds</0_60>
+	<price>£92,000</price>
+	<power>542 bhp</power>
+	<stig_lap_time>1:23.3</stig_lap_time>
+	<cool_rating>8</cool_rating>
+</product>
+<product>
+	<id>N/A</id>
+	<type>Hot Wheels</type>
+	<name>Bump Around</name>
+	<description>Like a souped-up dodgem, Bump Around has all the agility, if no so much style</description>
+	<sleek_sophistication>0</sleek_sophistication>
+	<raw_power>5</raw_power>
+	<desirability>11</desirability>
+	<creativity>2</creativity>
+	<tt_cool_factor>28</tt_cool_factor>
+</product>
+<product>
+	<id>N/A</id>
+	<type>Harry Potter</type>
+	<name>The Boggart</name>
+	<description>A Boggart is a shape-shifter that can take the form of whatever it thinks it will fighten you the most...</description>
+	<magic>55</magic>
+	<cunnning>25</cunnning>
+	<courage>35</courage>
+	<wisdom>12</wisdom>
+	<temper>5</temper>
+</product>
+</productlist>

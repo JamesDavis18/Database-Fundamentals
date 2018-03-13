@@ -1,0 +1,8 @@
+{
+	"products":[
+	{ "prodID":"N/A", "prodName":"McClaren F1", "prodImageloc":"mcclarenf1.jpg", "topspeed":"217 mph", "cool_factor":9,	"engine_capacity":"3800cc", "power": "null" },
+	{ "prodID":"D2", "prodName":"Welte 180", "prodImageloc":"welte180.jpg", "topspeed":"25 mph", "weight":"9200 kg", "power":"174 bhp" },
+	{ "prodID":"A3", "prodName":"New Holland TG 285", "prodImageloc":"newhollandtr.jpg", "topspeed":"25 mph", "weight":"11200kg","engine_capacity":"8,300cc","power": "283 bhp", "fuel_capacity": "605 litres" },
+	{ "prodID":"A4", "prodName":"Kawasaki ZXR 750", "prodImageloc":"kawasaki.jpg", "topspeed":"193 mph", "engine_capacity":"749cc", "power": "160 bhp" }
+	]	
+}

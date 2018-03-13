@@ -1,0 +1,53 @@
+{
+	"title": "Table of Products",
+	"type": "object",
+	"properties": {
+		"prodName": {
+			"type": "string"
+		},
+		"prodID": {
+			"type": "string"
+		},
+		"prodImageLoc": {
+			"type": "string"
+		},
+		"ProdAttributes": {
+			"topspeed": {
+				"type": "number",
+				"title": "Top Speed"
+			},
+			"weight": {
+				"type": "string",
+				"title": "Weight"
+			},
+			"cool_factor": {
+				"type": "string",
+				"title": "Cool Factor"
+			},
+			"engine_capacity": {
+				"type": "string",
+				"title": "Engine Capacity"
+			},
+			"fuel_capacity": {
+				"type": "string",
+				"title": "Fuel Tank Capacity"
+			},
+			"description": {
+				"type": "string",
+				"title": "Description"
+			},
+			"power": {
+				"type": "string",
+				"title": "Power - bhp"
+			},
+			"length": {
+				"type": "string",
+				"title": "Length"
+			},
+			"other": {
+				"type": "string",
+				"title": "Other Details"
+			},
+			{
+		},	
+}
